@@ -10,6 +10,6 @@ Keywords: email, resend, cold-email, agentic-suite, claude-code, codex, cli, mcp
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-inbox
-- Core contract: https://github.com/pooriaarab/agentic-inbox/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-inbox
+- Core contract: https://github.com/itsryanarmani/agentic-inbox/blob/main/docs/agentic-core.md
 - License: MIT
