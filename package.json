@@ -40,7 +40,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-inbox",
+  "mcpName": "io.github.itsryanarmani/agentic-inbox",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
